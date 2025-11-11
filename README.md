@@ -58,6 +58,10 @@ else:
 
 
 ```
+### Output:
+<img width="950" height="320" alt="download" src="https://github.com/user-attachments/assets/8464feb3-c79f-4107-9f51-ac1f4c9139ac" />
+
+
 
 ### Result: 
 
